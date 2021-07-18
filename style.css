@@ -26,13 +26,16 @@ body{
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position:left;
+    background-position: center left;
 
 }
 #baby{
     border-image-slice: 1;
     border-image: linear-gradient(salmon tomato);
     border-left: 7px solid;
+}
+footer p{
+    text-align: center;
 }
 #full-stack{
     border-image: linear-gradient(blue,cyan);
